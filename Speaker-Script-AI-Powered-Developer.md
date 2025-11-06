@@ -57,7 +57,14 @@ This is the new reality."
 - Time saved on routine tasks: 30-50%
 - Feature delivery speed has tripled in some organizations
 
-These aren't theoretical improvements. These are real, measurable business outcomes."
+But here's what's really striking—the adoption at the highest levels of tech. As of 2025:
+- Google's CEO Sundar Pichai reports that well over 30% of Google's code is now AI-generated, up from 25% just a year ago
+- Microsoft's CEO Satya Nadella states that 20-30% of code in Microsoft's repositories is AI-generated
+- Meta's CEO Mark Zuckerberg indicates AI could handle half of their software development within the next year
+
+Think about that—these are the world's largest tech companies, and 20-30% of their code is being written by AI. This isn't experimental anymore. This is mainstream.
+
+These aren't theoretical improvements. These are real, measurable business outcomes happening at scale."
 
 ---
 
