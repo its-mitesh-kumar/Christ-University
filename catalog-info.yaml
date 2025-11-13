@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: Christ-University
+  annotations:
+    github.com/project-slug: its-mitesh-kumar/Christ-University
+spec:
+  type: other
+  owner: its-mitesh-kumar
+  lifecycle: unknown
