@@ -5,6 +5,7 @@ nav:
   - Home: index.md
   - AI Powered Developer: AI-Powered-Developer-Presentation.md
   - Speaker Script: Speaker-Script-AI-Powered-Developer.md
+  - Heading: mitesh.md
 
 plugins:
   - techdocs-core
