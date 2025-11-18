@@ -1,0 +1,10 @@
+site_name: 'Christ University Docs'
+site_description: 'AI-Powered Developer Presentation Documentation'
+
+nav:
+  - Home: index.md
+  - AI Powered Developer: AI-Powered-Developer-Presentation.md
+  - Speaker Script: Speaker-Script-AI-Powered-Developer.md
+
+plugins:
+  - techdocs-core
