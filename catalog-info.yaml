@@ -4,7 +4,8 @@ metadata:
   name: Christ-University
   annotations:
     github.com/project-slug: its-mitesh-kumar/Christ-University
+    backstage.io/techdocs-ref: dir:.
 spec:
-  type: other
-  lifecycle: unknown
+  type: documentation
+  lifecycle: production
   owner: temp-team-a
