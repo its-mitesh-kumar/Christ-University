@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Christ-University
+  name: christ-university
   annotations:
     github.com/project-slug: its-mitesh-kumar/Christ-University
     backstage.io/techdocs-ref: dir:.
